@@ -1,9 +1,6 @@
-﻿# Ski-Resort-Database-System
+# Ski-Resort-Database-System
 
 Kayak merkezi veritabanı Sistemi
-
-Veritabanı uygulamasının Er Diyagramı ve Bağlantı Şeması [Pdf içindedir](https://drive.google.com/file/d/1ghjgIfiWwVeyLZ_rSRaPkDRpWKaRJW56/view?usp=sharing).
-
 
 Veritabanı'nın tablolarını oluşturan komutlar 1- ile başlayan dosya içindedir. 
 
